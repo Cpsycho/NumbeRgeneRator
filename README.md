@@ -15,5 +15,19 @@ This Python script allows users to generate and manipulate phone number combinat
 2. Select your desired mobile operator.
 3. Enter the last two digits of the mobile number.
 4. Choose to either search for a specific number or save the results as a text file.
+   
+
+##Installation 
+$ apt update 
+$ apt upgrade 
+$ pkg install python 
+$ pkg install git 
+$ git clone 
+$ cd 
+$ ls 
+$
+$
+$
+
 
 ****Thanks for using our tools****
