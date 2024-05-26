@@ -17,8 +17,8 @@ This Python script allows users to generate and manipulate phone number combinat
 4. Choose to either search for a specific number or save the results as a text file.
 
 ## Dependencies
-- Python 3.x
-
-## Usage Example
-```python
-python phone_number_generator.pyAuthorCreated by Cyber Psych0.License
+$ apt update
+$ apt upgrade
+$ pkg install python 
+$ pkg install git 
+$ git clone 
