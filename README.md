@@ -4,9 +4,8 @@
 This Python script allows users to generate and manipulate phone number combinations based on selected operator codes and last two digits.
 
 ## Features
-- **ASCII Art Animation**: Displays an animated ASCII art logo at the beginning of execution.
-- **Interactive Operator Selection**: Users can choose their desired mobile operator from a list.
-- **Number Combination Generation**: Generates all possible combinations of phone numbers with the selected operator code and user-provided last two digits.
+Selection**: Users can choose their desired mobile operator from a list.
+- **Number Combination Generation**: Generates all possible combinations of Bangladeshi  phone numbers with the selected operator code and user-provided last two digits which you can collect from your target's Facebook ID .
 - **Search Functionality**: Users can search for specific numbers based on input digits.
 - **Save to File**: Offers an option to save the generated combinations to a text file.
 
@@ -17,7 +16,7 @@ This Python script allows users to generate and manipulate phone number combinat
 4. Choose to either search for a specific number or save the results as a text file.
    
 
-##Installation 
+## Installation 
 $ apt update 
 $ apt upgrade 
 $ pkg install python 
